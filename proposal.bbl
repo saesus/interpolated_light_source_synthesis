@@ -1,0 +1,46 @@
+\begin{thebibliography}{10}
+
+\bibitem{sitzmann2020implicit}
+V.~Sitzmann, J.~N.~P. Martel, A.~W. Bergman, D.~B. Lindell, and G.~Wetzstein,
+  ``Implicit neural representations with periodic activation functions,'' 2020.
+
+\bibitem{martinbrualla2021nerf}
+R.~Martin-Brualla, N.~Radwan, M.~S.~M. Sajjadi, J.~T. Barron, A.~Dosovitskiy,
+  and D.~Duckworth, ``Nerf in the wild: Neural radiance fields for
+  unconstrained photo collections,'' 2021.
+
+\bibitem{bi2020neural}
+S.~Bi, Z.~Xu, P.~Srinivasan, B.~Mildenhall, K.~Sunkavalli, M.~Hašan,
+  Y.~Hold-Geoffroy, D.~Kriegman, and R.~Ramamoorthi, ``Neural reflectance
+  fields for appearance acquisition,'' 2020.
+
+\bibitem{DBLP:journals/corr/WangLL17}
+L.~Wang, Y.~Li, and S.~Lazebnik, ``Learning two-branch neural networks for
+  image-text matching tasks,'' {\em CoRR}, vol.~abs/1704.03470, 2017.
+
+\bibitem{python}
+``Python.'' \url{https://www.python.org/}.
+\newblock Accessed: 2021-03-14.
+
+\bibitem{agave}
+``Research computing.''
+  \url{https://asurc.atlassian.net/wiki/spaces/RC/overview}.
+\newblock Accessed: 2021-02-25.
+
+\bibitem{tensorflow}
+``Tensorflow.'' \url{https://www.tensorflow.org/}.
+\newblock Accessed: 2021-03-13.
+
+\bibitem{opencv}
+``Opencv.'' \url{https://opencv.org/}.
+\newblock Accessed: 2021-03-5.
+
+\bibitem{numpy}
+``Numpy.'' \url{https://numpy.org/}.
+\newblock Accessed: 2021-03-14.
+
+\bibitem{lightstage}
+``Light stage data gallery.'' \url{https://vgl.ict.usc.edu/Data/LightStage/}.
+\newblock Accessed: 2021-01-10.
+
+\end{thebibliography}
